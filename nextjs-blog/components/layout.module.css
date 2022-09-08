@@ -13,10 +13,3 @@
 .backToHome {
   margin: 3rem 0 0;
 }
-
-
-import styles from './layout.module.css';
-
-export default function Layout({ children }) {
-  return <div className={styles.container}>{children}</div>;
-}
