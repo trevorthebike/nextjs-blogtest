@@ -1,0 +1,23 @@
+{
+  "name": "CS5513-Week03-battlebot2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trevorthebike/cs55-trevor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trevorthebike/cs55-trevor/issues"
+  },
+  "homepage": "https://github.com/trevorthebike/cs55-trevor#readme",
+  "dependencies": {
+    "next": "^12.2.5"
+  }
+}
